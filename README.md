@@ -20,3 +20,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 "# lhbank-demo" 
 "# lhbank-demo" 
 "# lhbank-demo" 
+"# lhbank-demo" 
